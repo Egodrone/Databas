@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #ddd;
+}
+
+li a.active {
+    color: white;
+    background-color: #4CAF50;
+}
+</style>
+</head>
+<header style="background-color: #bababa;height: 100px;">
+<br>
+<h1>Bitcoin Bank!</h1>
+</header>
+<ul>
+    <li><a href="index">Home page</a></li>
+    <li><a href="balance">View account balance</a></li>
+    <li><a class="active" href="move-to-adam">Move to Adam</a></li>
+</ul>
+
+<h4>Thank you for the transaction!</h4>
+
+<p>Moving 1.5 peng to Adam.</p>
+<p>Adam is extremely happy and say thanks!</p>
+
+<p>
+
+<ul>
+<!--
+<% for (const row of res) { %>
+    <li><%= JSON.stringify(row) %> </li>
+<% }; %>
+-->
+</ul>
+
+</p>
+
+<footer style="background-color: #bababa;height: 100px;">
+<br><br>
+Copyright &#0169 Bank
+</footer>
+</body>
+</html>
+

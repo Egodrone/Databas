@@ -1,0 +1,1 @@
+SELECT * FROM larare LIMIT 3;

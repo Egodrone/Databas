@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">akronym</Data></Cell>
+			<Cell><Data ss:Type="String">avdelning</Data></Cell>
+			<Cell><Data ss:Type="String">fornamn</Data></Cell>
+			<Cell><Data ss:Type="String">efternamn</Data></Cell>
+			<Cell><Data ss:Type="String">kon</Data></Cell>
+			<Cell><Data ss:Type="String">lon</Data></Cell>
+			<Cell><Data ss:Type="String">fodd</Data></Cell>
+			<Cell><Data ss:Type="String">kompetens</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">ala</Data></Cell>
+			<Cell><Data ss:Type="String">DIPT</Data></Cell>
+			<Cell><Data ss:Type="String">Alastor</Data></Cell>
+			<Cell><Data ss:Type="String">Moody</Data></Cell>
+			<Cell><Data ss:Type="String">M</Data></Cell>
+			<Cell><Data ss:Type="Number">27594</Data></Cell>
+			<Cell><Data ss:Type="String">1943-04-03</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">dum</Data></Cell>
+			<Cell><Data ss:Type="String">ADM</Data></Cell>
+			<Cell><Data ss:Type="String">Albus</Data></Cell>
+			<Cell><Data ss:Type="String">Dumbledore</Data></Cell>
+			<Cell><Data ss:Type="String">M</Data></Cell>
+			<Cell><Data ss:Type="Number">85000</Data></Cell>
+			<Cell><Data ss:Type="String">1941-04-01</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">fil</Data></Cell>
+			<Cell><Data ss:Type="String">ADM</Data></Cell>
+			<Cell><Data ss:Type="String">Argus</Data></Cell>
+			<Cell><Data ss:Type="String">Filch</Data></Cell>
+			<Cell><Data ss:Type="String">M</Data></Cell>
+			<Cell><Data ss:Type="Number">27594</Data></Cell>
+			<Cell><Data ss:Type="String">1946-04-06</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
